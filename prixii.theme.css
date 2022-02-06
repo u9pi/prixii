@@ -1,0 +1,14 @@
+/**
+ * @name Prixii
+ * @description To synchronize with themes
+ * @version 1.0
+ * @author eepiyo
+ * @source https://github.com/eepiyo/prixii
+ */
+
+/* main */
+@import url(https://raw.githack.com/eepiyo/prixii/main/resource/main.css);
+@import url(https://raw.githack.com/eepiyo/prixii/main/resource/themes/discord.based.css);
+
+/* It will still show up in the user settings as well.
+   I'll fix it soon.                                   */
