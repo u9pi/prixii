@@ -1,0 +1,15 @@
+:root {
+    --button-background: #313131;
+    --button-hover-background: #414141;
+    --button-accent-hover-background: #d6d6d6;
+    --button-hover-foreground: #191919;
+    --spacing: 5px;
+    --margin-frame: 9px;
+    --win-width: 36px;
+    --win-height: 36px;
+    --win-radius: 10px;
+    --win-radius-1: var(--win-radius);
+    --win-radius-2: 0;
+    --win-distance: 1.2px;
+    --toolbar-distance: var(--win-distance);
+}
