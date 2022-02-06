@@ -1,8 +1,8 @@
 :root {
-    --button-background: transparent;
-    --button-hover-background: hsl(217, 8%, 52%, 16%);
-    --button-accent-hover-background: hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%);
-    --button-hover-foreground: hsl(0,0%,100%);
+    --button-back: transparent;
+    --button-hover-back: hsl(217, 8%, 52%, 16%);
+    --button-accent-hover-back: hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%);
+    --button-hover-fore: hsl(0,0%,100%);
     --spacing: 5px;
     --margin-frame: 9px;
     --win-width: 36px;
