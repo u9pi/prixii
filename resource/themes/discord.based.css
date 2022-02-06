@@ -1,0 +1,15 @@
+:root {
+    --button-background: transparent;
+    --button-hover-background: hsl(217, 8%, 52%, 16%);
+    --button-accent-hover-background: hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%);
+    --button-hover-foreground: hsl(0,0%,100%);
+    --spacing: 5px;
+    --margin-frame: 9px;
+    --win-width: 36px;
+    --win-height: 36px;
+    --win-radius: 31%;
+    --win-radius-1: var(--win-radius);
+    --win-radius-2: 31%;
+    --win-distance: 1px;
+    --toolbar-distance: 0 8px;
+}
