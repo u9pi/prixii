@@ -14,11 +14,11 @@
     border-radius: var(--win-radius-1) var(--win-radius-2) var(--win-radius-2) var(--win-radius-1) !important;
 }
 .winButtonClose-3Q8ZH5:hover {
-    color: var(--button-hover-foreground);
-    background-color: var(--button-accent-hover-background);
+    color: var(--button-hover-fore);
+    background-color: var(--button-accent-hover-back);
 }
 .winButtonMinMax-3RsPUg:hover {
-    background-color: var(--button-hover-background);
+    background-color: var(--button-hover-back);
 }
 .withFrame-2dL45i {
     margin-top: var(--margin-frame);
@@ -29,7 +29,7 @@
     height: var(--win-height);
     margin: var(--win-distance);
     border-radius: var(--win-radius);
-    background-color: var(--button-background);
+    background-color: var(--button-back);
 }
 .title-17SveM, .toolbar-3_r2xA {
     margin-right: calc(var(--spacing) + (var(--win-width) + var(--win-distance)) * 3);
