@@ -1,7 +1,7 @@
 :root {
     --button-back: var(--button-background);
     --button-hover-back: var(--button-background-hover);
-    --button-accent-hover-back: background-color: var(--background-modifier-selected);;
+    --button-accent-hover-back: var(--background-modifier-selected);
     --button-hover-fore: var(--interactive-selected);
     
     --spacing: 5px;
