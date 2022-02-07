@@ -34,13 +34,14 @@
 .title-17SveM, .toolbar-3_r2xA {
     margin-right: calc(var(--spacing) + (var(--win-width) + var(--win-distance)) * 3);
 }
+.children-3xh0VB {
+    margin-block: auto;
+}
+.children-3xh0VB,
 .wrapper-1_HaEi {
     -webkit-app-region: drag;
 }
-.folder-241Joy,
-.folderIconWrapper-1oRIZr,
-.childWrapper-1j_1ub,
-.wrapper-3kah-n {
+.listItem-3SmSlK {
     -webkit-app-region: no-drag;
 }
 .toolbar-3_r2xA .clickable-ZD7xvu {
