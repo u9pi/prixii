@@ -34,9 +34,6 @@
 .title-17SveM, .toolbar-3_r2xA {
     margin-right: calc(var(--spacing) + (var(--win-width) + var(--win-distance)) * 3);
 }
-.children-3xh0VB {
-    margin-block: auto;
-}
 .wrapper-1_HaEi {
     -webkit-app-region: drag;
 }
