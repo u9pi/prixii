@@ -19,6 +19,9 @@
     --watermark: none;
 }
 
+.winButton-3UMjdg {
+    margin: 0 var(--win-distance);
+}
 .wrapper-1_HaEi {
     margin-top: 8px;
 }
