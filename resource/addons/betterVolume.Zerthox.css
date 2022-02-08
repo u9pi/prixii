@@ -1,0 +1,13 @@
+.input-BetterVolume[type=number]::-webkit-inner-spin-button, 
+.input-BetterVolume[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+.customItem-2CxBSo {
+    margin-bottom: 8px;
+}
+.container-BetterVolume {
+    background: var(--background-tertiary);
+    margin-top: -8px;
+    padding: 4px 7px;
+}
