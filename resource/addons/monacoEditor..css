@@ -1,1 +1,5 @@
-
+.floating-window.resizable {
+    border: 1px solid #ffffff0d;
+    border-radius: 8px;
+    box-shadow: 0 6px 16px hsl(0deg 0% 0% / 26%);
+}
