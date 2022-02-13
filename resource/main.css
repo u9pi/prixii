@@ -38,6 +38,9 @@
 .title-17SveM, .toolbar-3_r2xA {
     margin-right: calc(var(--spacing) + (var(--win-width) + var(--win-distance)) * 3);
 }
+.chat-2ZfjoI.threadSidebarOpen-1LSXvU .toolbar-3_r2xA {
+    margin-right: 0;
+}
 .toolbar-3_r2xA .clickable-ZD7xvu {
     margin: var(--toolbar-distance);
 }
